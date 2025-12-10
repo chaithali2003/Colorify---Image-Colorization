@@ -1,0 +1,7 @@
+modelscope
+Pillow
+numpy
+torch
+sentencepiece
+timm
+opencv-python
