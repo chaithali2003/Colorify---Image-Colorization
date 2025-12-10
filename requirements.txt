@@ -5,3 +5,5 @@ torch
 sentencepiece
 timm
 opencv-python
+addict
+gradio
