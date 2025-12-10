@@ -129,22 +129,13 @@ MODEL_CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'mode
 
 ```
 
-## Limitations
-
-- Best results on clear, well-structured black-and-white photos
-- May struggle with heavily damaged or degraded images
-- Color accuracy depends on training data and image context
-- Processing time varies with image resolution and available hardware
-
-```
-
 ## Acknowledgments
 
 - **ModelScope** for the DDColor model
 - **Gradio** for the web framework
 - **PyTorch** team for the deep learning framewor
 
----
+```
 
 Made with ❤️ by Chaithali S
 
