@@ -144,7 +144,7 @@ MODEL_CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'mode
 - **Gradio** for the web framework
 - **PyTorch** team for the deep learning framewor
 
----
+```
 
 Made with ❤️ by Chaithali S
 
