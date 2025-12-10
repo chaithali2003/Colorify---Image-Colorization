@@ -6,4 +6,5 @@ sentencepiece
 timm
 opencv-python
 addict
+datasets
 gradio
