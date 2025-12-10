@@ -136,8 +136,8 @@ models/
 *~
 .DS_Store
 
-# Gradio temp files
 .gradio/
+# Gradio temp files
 flagged/
 .gradio_cached_examples/
 
